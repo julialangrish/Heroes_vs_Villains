@@ -1,5 +1,7 @@
 Heroes vs Villains README.txt
 
+PROJECT INFO
+This game was made for a software engineering course assignment. It was completed as a group project by two people.
 
 HOW TO RUN THE GAME
 The game is contained within the jar file "jml179_bsl28_heroes_villains.jar".
